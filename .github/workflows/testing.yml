@@ -1,0 +1,11 @@
+name: Texting Action
+on:
+  push:
+
+jobs:
+  my-testing-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: mensaje testing
+        run: echo "listo para ser testing"
+ 
