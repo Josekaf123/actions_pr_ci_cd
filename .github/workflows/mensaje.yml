@@ -4,5 +4,5 @@ jobs:
   mensajes-jobs:
     runs-on: ubuntu-latest
     steps:
-      - name: print a message
-        run: echo "A push event has ocurred"
+      - name: mensaje de ejecucion de push 🔥
+        run: echo "tarea / pipeline ejecutada ✔"
